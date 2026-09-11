@@ -1,6 +1,6 @@
 # Bramka jakości kartoteki towarów — walidacja kodów i nazw przy zakładaniu karty (enova365)
 
-> Element większej całości: **[Kartoteka, sprzedaż i fakturowanie w enova365 — mapa rozwiązania](../../trynityeu/enova365-obieg-sprzedazy-i-kartoteki)**
+> Element większej całości: **[Kartoteka, sprzedaż i fakturowanie w enova365 — mapa rozwiązania](https://github.com/trynityeu/enova365-obieg-sprzedazy-i-kartoteki)**
 
 Dodatek do systemu ERP **enova365** (Soneta sp. z o.o.), który nadaje karcie
 towaru identyfikator i opis — ale **tylko wtedy, gdy karta jest zgodna
@@ -205,7 +205,7 @@ rozchodzi się na zamówienia, dokumenty magazynowe, faktury i opisy analityczne
 Powiązane elementy fundamentu:
 
 - **dokumentacja techniczna z kart** dołączana wprost do dokumentów handlowych
-  → [Zapytanie ofertowe do dostawcy](../../trynityeu/enova365-zapytanie-ofertowe-do-dostawcy)
+  → [Zapytanie ofertowe do dostawcy](https://github.com/trynityeu/enova365-zapytanie-ofertowe-do-dostawcy)
 
 ## Pochodzenie
 
